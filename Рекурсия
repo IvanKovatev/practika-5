@@ -1,3 +1,5 @@
+Вывести числа от 1 до n
+
 import java.util.Scanner;
 
 public class Main {
